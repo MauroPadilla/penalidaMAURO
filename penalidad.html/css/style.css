@@ -1,0 +1,53 @@
+.border1{
+    background-color: bisque;
+    height: 2rem;
+    width: 60rem;
+    border-radius: 2rem;
+    
+}
+
+.border2{
+    background-color: bisque;
+    height: 2rem;
+    width: auto;
+    border-radius: 2rem;
+}
+
+
+.contenedor-mayor{
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+
+.section-1 {
+    display: flex;
+}
+
+section {
+    padding: 2rem;
+}
+
+.separar-texto{
+    display: flex;
+    justify-content: space-between;
+}
+
+.foto{
+    width: 15rem;
+    height: 15rem;
+    border-radius: 15rem;
+    align:center;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+
+.logo{
+   height: 2rem;
+   width: 2rem;
+}
